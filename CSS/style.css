@@ -1,8 +1,8 @@
 
 div.dropdown-multicol2{
-  width: 60em;
+  width: 30em;
 }
 div.dropdown-multicol2>div.dropdown-col{
   display:inline-block;
-  width: 10%;
+  width: 20%;
 }
